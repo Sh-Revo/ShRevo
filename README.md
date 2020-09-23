@@ -1,3 +1,5 @@
 Create Shop store
-Using Technologies
+
+Using Technologies:
+
 JUnit, Mockito, Gradle, lombok
